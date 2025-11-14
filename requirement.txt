@@ -1,0 +1,6 @@
+[file name]: requirements.txt
+[file content begin]
+streamlit>=1.28.0
+Pillow>=10.0.0
+numpy>=1.24.0
+[file content end]
